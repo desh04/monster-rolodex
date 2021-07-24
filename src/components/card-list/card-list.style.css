@@ -1,0 +1,7 @@
+.card-list {
+    width: 85vw;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;   /* deviding grind in 4 column , each wiht size of 1 fraction , 1 fraction = equal part of grid */
+    grid-gap: 20px;                 /* four equal column with 20px between them */
+  }
